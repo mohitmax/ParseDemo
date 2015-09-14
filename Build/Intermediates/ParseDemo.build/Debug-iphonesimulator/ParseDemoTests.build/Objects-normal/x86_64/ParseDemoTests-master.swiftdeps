@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "45ccf22c393a9115e01ed79f60ccc765"
+inputs: 
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemoTests/ParseDemoTests.swift"

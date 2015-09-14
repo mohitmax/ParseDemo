@@ -1,0 +1,8 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "a6912c6446692ea75e00dedbcbaceced"
+inputs: 
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemo/LoginViewController.swift"
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemo/ResetPasswordViewController.swift"
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemo/SignUpViewController.swift"
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemo/AppDelegate.swift"
+- "/Users/msadhu/Downloads/ParseDemoStart/ParseDemo/HomeViewController.swift"
